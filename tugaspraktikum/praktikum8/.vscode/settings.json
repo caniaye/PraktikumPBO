@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "my-app/lib/flatlaf-3.6.2.jar",
+        "my-app/lib/miglayout-core-11.0.jar",
+        "my-app/lib/miglayout-swing-11.0.jar"
+    ]
+}
