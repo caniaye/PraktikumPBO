@@ -1,0 +1,3 @@
+Main-Class: EduCoreApp
+Class-Path: lib/flatlaf-3.6.2.jar lib/flatlaf-intellij-themes-3.6.2.jar lib/miglayout-core-11.0.jar lib/miglayout-swing-11.0.jar lib/mysql-connector-j-9.5.0.jar
+
