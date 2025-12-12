@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "realtime-client-tier-swing/lib/flatlaf-3.6.2.jar",
+        "realtime-client-tier-swing/lib/flatlaf-intellij-themes-3.6.2.jar",
+        "realtime-client-tier-swing/lib/gson-2.13.2.jar",
+        "realtime-client-tier-swing/lib/Java-WebSocket-1.6.0.jar",
+        "realtime-client-tier-swing/lib/miglayout-core-11.0.jar",
+        "realtime-client-tier-swing/lib/miglayout-swing-11.0.jar",
+        "realtime-client-tier-swing/lib/slf4j-api-2.0.17.jar"
+    ]
+}
